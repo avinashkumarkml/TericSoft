@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "fullname": "Avinash Kumar",
+      "email": "avinashkumarkml@gmail.com",
+      "phone": "+918619996364",
+      "birthday": "2022-08-04",
+      "gender": "Male",
+      "hobbies": [
+        "Cricket",
+        "Football"
+      ],
+      "id": 1
+    },
+    {
+      "fullname": "Sophie Sumsuma",
+      "email": "sophiesumsumayandex@gmail.com",
+      "phone": "0477094249",
+      "birthday": "2022-08-09",
+      "gender": "Male",
+      "hobbies": [
+        "Cricket"
+      ],
+      "id": 2
+    }
+  ]
+}
